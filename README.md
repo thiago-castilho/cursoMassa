@@ -14,7 +14,7 @@
 ## Configuring DBUnit
 
 1. Create a database named **_dbunit_** on PostgreSQL
-2. Open the project, and go to **src/main/java/../utils/ConnectionFactory** and configure your database connection
+2. Open the project, go to **src/main/java/../utils/ConnectionFactory** and configure your database connection
 3. Go to **src/main/java/../utils/MontarAmbiente** and run as JavaApplication
    > Check that your database was created correctly
 
