@@ -20,9 +20,11 @@
 
 <br>
 
-## Strategy #1
+> If you need to reset your database, just execute step 3 again
 
-<hr>
+<br>
+
+## Strategy #1
 
 ### WEB
 

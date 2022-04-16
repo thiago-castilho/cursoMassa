@@ -20,9 +20,11 @@
 
 <br>
 
-## Estratégia #1
+> Se você precisar redefinir seu banco de dados, execute o passo 3 novamente
 
-<hr>
+<br>
+
+## Estratégia #1
 
 ### WEB
 

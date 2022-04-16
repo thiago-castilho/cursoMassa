@@ -1,3 +1,5 @@
+<!-- https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open -->
+
 <p align="center">
    <a href="/docs/README.pt-BR.md">Português - BR</a>
    ·
@@ -20,9 +22,11 @@
 
 <br>
 
-## Strategy #1
+> If you need to reset your database, just execute step 3 again
 
-<hr>
+<br>
+
+## Strategy #1
 
 ### WEB
 
