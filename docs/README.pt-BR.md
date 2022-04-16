@@ -26,8 +26,6 @@
 
 ## Estratégia #1
 
-### WEB
-
 > A Estratégia 1 usa o método CRUD, que significa: Create; Read/Retrieve; Update; Delete; <br>Em português: Criar; Ler/Recuperar; Alterar; Deletar
 
 Para esta estratégia, utilizamos a anotação `@FixMethodOrder(MethodSorters.NAME_ASCENDING)` da biblioteca do JUnit. Com esta classe, devemos nomear os métodos de forma parecida com este exemplo: _`teste_1_criar`_ para que os testes sejam executados na ordem desejada.
